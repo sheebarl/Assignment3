@@ -1,0 +1,162 @@
+*{
+    margin-left: 30px; 
+}
+
+.first{
+    margin:5px;
+    background-color:burlywood;
+    height:110px;
+}
+
+nav{
+margin:30px;
+}
+
+section{
+    background-color: lightgray;
+    height:750px;
+    width:1350px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.third{
+    border:3px solid black;
+    height:650px;
+    width:1200px;
+    margin:60px;
+    position: absolute;
+    
+}
+
+.place{
+    height: 50px;
+    width:1070px;
+    
+    
+    
+}
+
+ .label1{
+     line-height: 35px;
+     font-size: 25px;
+ }
+
+ 
+.button{
+    background-color: orangered;
+    color: white;
+    width:100px;
+    height: 50px;
+    margin-top: 30px;
+}
+
+
+
+
+.fourth{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+.fifth{
+    
+    float: left;
+   
+    padding: 5px;
+    margin-top: -200px;
+    height: 100px;
+    
+    width:1070px;
+    columns: 3;
+    
+}
+
+.line1{
+    height:50px;
+    width:1070px;
+    padding: 5px;
+   margin-left: -7%;
+   
+}
+
+.line2{
+    height:50px;
+    width:1070px;
+    padding: 5px;
+   margin-left: -7%;
+}
+
+.line3{
+    height:50px;
+    width:1070px;
+    padding: 5px;
+   margin-left: -7%;
+}
+
+ /* .fourth li{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 1%;
+}*/
+
+.head1{
+    background-color: chocolate;
+    height:50px;
+    width:1070px;
+    padding: 5px;
+   margin-left: -7%;
+}
+
+.head2{
+    background-color: chocolate;
+    margin-left: 50%;
+    padding: 5px;
+    margin-top: -67px;
+}
+
+.head3{
+    background-color: chocolate;
+    margin-left: 120%;
+    padding: 5px;
+    margin-top: -58px;
+}
+
+/*.container:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding: 2em 4em;
+  }*/
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding: 2em 4em;
+  }
+
+  /* .details
+  {
+      display: grid;
+      grid-template-rows: 1fx 3fx;
+  } */
+
+
+
+hr{
+    margin-top: -70px;
+    width: 1330px;
+    margin-left:10px;
+}
+
+
+footer{
+    margin-top: 30px;
+    margin-left:25%
+}   
+
+.mail{
+    color: blue;
+}
