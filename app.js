@@ -5,7 +5,7 @@ let firstValue=document.querySelector('.line1 .train');
 let secondValue=document.querySelector('.line2');
 let thirdValue=document.querySelector('.line3');
 
-const API_KEY = 'eed94529-a81a-40b3-856d-9b71227a3e36';
+const API_KEY = '';
 const arrId='740098001';
 
 function getOrigin(origin,key){
